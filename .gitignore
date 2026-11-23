@@ -1,0 +1,10 @@
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.map
+.vscode/
+.idea/
+EOF
